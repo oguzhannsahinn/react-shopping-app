@@ -1,0 +1,2 @@
+start to json server: json-server --watch db.json
+start react: npm start
